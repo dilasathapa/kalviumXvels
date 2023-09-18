@@ -148,12 +148,12 @@ battingbutton.onclick = () =>{
 
 
 // document.getElementById("someid").addEventListener("click", function(){
-
+     // anonymous functions
 // }, 3rd value)
 
 
 // function changecolor(){
-//     // anonymous functions
+//    
 // }
 
 
